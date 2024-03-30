@@ -1,0 +1,59 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family:"Arial";
+}
+
+body{
+  background-color: #E4E6EB;
+}
+
+.author_info{
+  vertical-align: middle;
+}
+
+
+
+.author_info p{
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  color: #4d4e4e;
+
+}
+
+.author_info h3{
+  font-size: 14px;
+  font-style: normal;
+  margin: 5px 0;
+  text-transform: capitalize;
+  font-weight: 600;
+  color: #4d4e4e;
+
+}
+
+.facebook_timeline img{
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+
+.fb_post_btn{
+ 
+  text-align: end;
+}
+.fb_post_btn span{
+  color: #0f0f0f;
+  text-align: end;
+  font-weight: 100;
+}
+.fb_post_btn span i{
+  color: #9b9b9b;
+  text-align: end;
+  font-weight: 100;
+}
+
+.post_card{
+  justify-content: space-between;
+  padding: 10px 10px;
+}
